@@ -3,7 +3,7 @@ info:
   title: Flee Backend API - OpenAPI 3.0
   description: Flee Backend API Documentation
   contact:
-    email: tharunvind@gmail.com
+    email: ajaykrishnavemula125@gmail.com
   version: 1.0.1
 servers:
   - url: http://localhost:3000/api/v1

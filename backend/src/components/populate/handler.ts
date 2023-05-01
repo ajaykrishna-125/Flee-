@@ -1,6 +1,5 @@
 /**
  * @author Ajay Krishna
- * @author Tharun Vemula
  * @summary Route Handlers
  */
 
@@ -208,11 +207,7 @@ export const PendingPermits = async (id: string) => {
   }
 };
 
-/**
- * 
- * @author Ajay Krishna Vemula
- * @summary Update and Delete API 
- */
+
 
 export const DeletePass = async (id: string)  => {
   try {

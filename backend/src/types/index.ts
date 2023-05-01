@@ -1,5 +1,5 @@
 /**
- * @author Tharun Vemula
+ * @author AjayKrishna
  * @summary Types used in API Logic.
  */
 export interface LoginRequestPayload {

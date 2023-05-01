@@ -1,5 +1,5 @@
 /**
- * @author Tharun Vemula
+ * @author AjayKrishna
  * @summary Necessary Plugins for JWT Authentication of users.
  *
  *
